@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../WalletApp.Tests/WalletApp.Tests.vcxproj" />
+  <Project Path="WalletApp.vcxproj" />
+</Solution>

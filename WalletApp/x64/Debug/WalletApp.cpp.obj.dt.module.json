@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WalletApp\\x64\\Debug\\WalletApp.obj",
+            "outputs": [
+                "WalletApp\\x64\\Debug\\WalletApp.cpp.obj.dt.module.json",
+                "WalletApp\\x64\\Debug\\WalletApp.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
